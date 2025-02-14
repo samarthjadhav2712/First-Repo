@@ -31,3 +31,7 @@ git add <file name> -> add the file to the staging area
 git add . -> add all the files to the staging area
 
 git commit -m "message" -> commit the changes to the repository..
+
+git log -> check the commit history
+git log --oneline -> check the commit history in one line
+
