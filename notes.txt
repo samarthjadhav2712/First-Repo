@@ -1,0 +1,33 @@
+git is a software & github is a service used to host the git . 
+
+Version control system , Tracks files for changes , Allows multiple people to work on the same project , Allows to revert back to previous version of the project .
+
+git --version -> check the version of git installed on the system
+
+cd github -> change directory to github
+pwd -> present working directory
+ls -> list the files in the directory
+
+git conifg --global user.name "username" -> set the username
+git config --global user.email "email" -> set the email
+
+git init -> initialize the git repository
+
+rm -force .git -> remove the git repository
+
+cd ../ -> move to the parent directory
+cd -> move to the home directory
+cd github/ -> move to the github directory
+
+git status -> check the status of the repository
+
+
+
+
+write - > add - > commit -> three steps to add the changes to the repository
+init -> add - > commit
+
+git add <file name> -> add the file to the staging area
+git add . -> add all the files to the staging area
+
+git commit -m "message" -> commit the changes to the repository..
