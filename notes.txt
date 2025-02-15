@@ -35,3 +35,6 @@ git commit -m "message" -> commit the changes to the repository..
 git log -> check the commit history
 git log --oneline -> check the commit history in one line
 
+.gitignore -> file to ignore the files from the repository
+.gitkeep -> file to keep the empty directory in the repository
+
