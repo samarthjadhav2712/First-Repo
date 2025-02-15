@@ -38,3 +38,6 @@ git log --oneline -> check the commit history in one line
 .gitignore -> file to ignore the files from the repository
 .gitkeep -> file to keep the empty directory in the repository
 
+git branch -M main -> rename the branch to main
+
+git remote -v -> check the remote repository
